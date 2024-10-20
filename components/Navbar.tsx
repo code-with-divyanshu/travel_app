@@ -44,7 +44,7 @@ const Navbar = () => {
       )}
 
       {mobileMenu && (
-        <ul className="absolute shadow-2xl rounded-s-md bg-blue-300 right-0 top-0 w-[50%] h-[100vh]">
+        <ul className="absolute shadow-2xl rounded-s-md bg-blue-300 right-0 top-0 w-[50%] h-[100lvh]">
           <Image
             src="close.svg"
             alt="Menu Bar"
