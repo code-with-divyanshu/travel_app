@@ -1,3 +1,3 @@
 #Travel App
 
-This is a travel Ui website created using React.js and tailwind CSS.
+This is a travel Ui website created using Next Js, React.js and tailwind CSS.
